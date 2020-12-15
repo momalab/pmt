@@ -14,7 +14,7 @@ In directory <code>elementwise</code> or <code>groupwise</code>:
 ```
 make prepare_database
 ```
-It will create a database, and values to be queried, inserted, and removed.
+It will create a database for testing purposes, and values to be queried, inserted, and removed.
 
 ### Compile and run:
 In directory <code>elementwise</code> or <code>groupwise</code>:
