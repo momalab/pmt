@@ -29,3 +29,6 @@ make
 <li><code>make insert</code>: inserts the content of <code>data/insert.db</code> in the database</li>
 <li><code>make remove</code>: removes the content of <code>data/remove.db</code> from the database</li>
 </ul>
+
+### Cite us:
+E. Chielle, H. Gamil and M. Maniatakos, "Real-time Private Membership Test using Homomorphic Encryption," 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2021, pp. 1282-1287, doi: 10.23919/DATE51398.2021.9473968.
