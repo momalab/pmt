@@ -32,3 +32,15 @@ make
 
 ### Cite us:
 E. Chielle, H. Gamil and M. Maniatakos, "Real-time Private Membership Test using Homomorphic Encryption," 2021 Design, Automation & Test in Europe Conference & Exhibition (DATE), 2021, pp. 1282-1287, doi: 10.23919/DATE51398.2021.9473968.
+```
+@INPROCEEDINGS{9473968,
+  author={Chielle, Eduardo and Gamil, Homer and Maniatakos, Michail},
+  booktitle={2021 Design, Automation   Test in Europe Conference   Exhibition (DATE)},
+  title={Real-time Private Membership Test using Homomorphic Encryption},
+  year={2021},
+  volume={},
+  number={},
+  pages={1282-1287},
+  doi={10.23919/DATE51398.2021.9473968}
+}
+```
